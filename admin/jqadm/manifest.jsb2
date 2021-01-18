@@ -1,0 +1,22 @@
+{
+	"projectName": "sw-sardes",
+	"licenseText": "proprietary",
+	"pkgs": [{
+		"name": "sw-sardes CSS",
+		"file": "sw-sardes.css",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "custom.css",
+			"path": "themes/"
+		}]
+	}, {
+		"name": "sw-sardes JS",
+		"file": "sw-sardes.js",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "custom.js",
+			"path": "themes/"
+		}]
+	}],
+	"resources" : []
+}
